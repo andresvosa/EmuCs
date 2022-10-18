@@ -1,0 +1,2 @@
+# EmuCs
+ Emulate C# scripts
